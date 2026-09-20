@@ -1,5 +1,6 @@
-# xschem_tools
+# xschem_mine
 
-## gen_raw_op
+## scripts
+### gen_raw_op
 - run this file and choose netlist
 - simulation>graphs>annotate
