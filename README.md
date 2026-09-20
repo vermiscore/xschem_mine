@@ -2,5 +2,5 @@
 
 ## scripts
 ### gen_raw_op
-- run this file and choose netlist
-- simulation>graphs>annotate
+1. run this file and choose netlist
+2. simulation>graphs>annotate
